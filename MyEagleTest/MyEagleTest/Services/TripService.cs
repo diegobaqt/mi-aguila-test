@@ -1,4 +1,5 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 using System.Linq;
 using MyEagleTest.Models;
 using MyEagleTest.Repositories.Interfaces;
@@ -31,7 +32,7 @@ namespace MyEagleTest.Services
         public QuantityRecordsVm FindQuantityRecords(ReportPagedVm reportPagedVm)
         {
             var records = _tripRepository.FindAll();
-            var filteredRecords = FindAllByReportFilter(reportPagedVm.ReportFilterVm, records);
+            var filteredRecords = FindAllByReportFilter(reportPagedVm, records);
 
             var quantityRecordsVm = new QuantityRecordsVm
             {
@@ -44,12 +45,8 @@ namespace MyEagleTest.Services
 
         public PagedListVm FilteredAndPaged(ReportPagedVm reportPagedVm)
         {
-            if (reportPagedVm?.PaginationVm == null) return new PagedListVm();
-
-            var paginationVm = reportPagedVm.PaginationVm;
-
-            var page = paginationVm.Page;
-            var pageSize = paginationVm.PageSize;
+            var page = reportPagedVm.Page > 0 ? reportPagedVm.Page : 1;
+            var pageSize = reportPagedVm.PageSize > 0 ? reportPagedVm.PageSize : 10;
             var skip = (page - 1) * pageSize;
 
             var quantityRecordsVm = FindQuantityRecords(reportPagedVm);
@@ -68,7 +65,10 @@ namespace MyEagleTest.Services
 
         public Trip FindById(string id)
         {
-            return _tripRepository.FindById(id);
+            var trip = _tripRepository.FindById(id);
+            if (trip == null) throw new NullReferenceException();
+
+            return trip;
         }
 
         #endregion
@@ -113,26 +113,26 @@ namespace MyEagleTest.Services
 
         #region Utils
 
-        public IQueryable<Trip> FindAllByReportFilter(ReportFilterVm reportFilterVm, IQueryable<Trip> trips)
+        public IQueryable<Trip> FindAllByReportFilter(ReportPagedVm reportPagedVm, IQueryable<Trip> trips)
         {
-            if (reportFilterVm == null)
+            if (reportPagedVm == null)
             {
                 return trips;
             }
 
-            if (!string.IsNullOrWhiteSpace(reportFilterVm.CountryFilter))
+            if (!string.IsNullOrWhiteSpace(reportPagedVm.CountryFilter))
             {
-                trips = trips.Where(t => t.Country.Name == reportFilterVm.CountryFilter);
+                trips = trips.Where(t => t.Country.Name == reportPagedVm.CountryFilter);
             }
 
-            if (!string.IsNullOrWhiteSpace(reportFilterVm.CityFilter))
+            if (!string.IsNullOrWhiteSpace(reportPagedVm.CityFilter))
             {
-                trips = trips.Where(t => t.City.Name == reportFilterVm.CityFilter);
+                trips = trips.Where(t => t.City.Name == reportPagedVm.CityFilter);
             }
 
-            if (!string.IsNullOrWhiteSpace(reportFilterVm.StatusFilter))
+            if (!string.IsNullOrWhiteSpace(reportPagedVm.StatusFilter))
             {
-                trips = trips.Where(t => t.Status == reportFilterVm.StatusFilter);
+                trips = trips.Where(t => t.Status == reportPagedVm.StatusFilter);
             }
 
             return trips;

@@ -41,7 +41,7 @@ namespace MyEagleTest.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetQuantityRecords([FromBody] ReportPagedVm reportPagedVm)
+        public IActionResult GetQuantityRecords(ReportPagedVm reportPagedVm)
         {
             try
             {
@@ -56,7 +56,7 @@ namespace MyEagleTest.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetAllFilteredAndPaged([FromBody] ReportPagedVm reportPagedVm)
+        public IActionResult GetAllFilteredAndPaged(ReportPagedVm reportPagedVm)
         {
             try
             {
@@ -71,16 +71,17 @@ namespace MyEagleTest.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetById([FromBody] TripIdViewModel tripIdViewModel)
+        public IActionResult GetById(string id)
         {
             try
             {
-                var travels = _tripService.FindById(tripIdViewModel.Id);
+                var travels = _tripService.FindById(id);
                 return Ok(travels);
             }
             catch (Exception ex)
             {
                 _logger.LogError(ex.HResult, ex.InnerException == null ? ex.Message : ex.InnerException.Message);
+                if (ex is NullReferenceException) return NotFound(ServiceResponseExtension.NotFountResponse);
                 return BadRequest(ServiceResponseExtension.GenericResponse);
             }
         }

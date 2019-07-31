@@ -2,8 +2,14 @@
 {
     public class ReportPagedVm
     {
-        public PaginationVm PaginationVm { get; set; }
+        public string CountryFilter { get; set; }
 
-        public ReportFilterVm ReportFilterVm { get; set; }
+        public string CityFilter { get; set; }
+
+        public string StatusFilter { get; set; }
+
+        public int Page { get; set; }
+
+        public int PageSize { get; set; }
     }
 }
