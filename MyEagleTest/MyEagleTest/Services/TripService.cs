@@ -32,11 +32,11 @@ namespace MyEagleTest.Services
         public QuantityRecordsVm FindQuantityRecords(ReportPagedVm reportPagedVm)
         {
             var records = _tripRepository.FindAll();
-            var filteredRecords = FindAllByReportFilter(reportPagedVm, records);
+            var filteredRecords = FindAllByReportFilter(reportPagedVm, records).ToList();
 
             var quantityRecordsVm = new QuantityRecordsVm
             {
-                Quantity = filteredRecords.Count(),
+                Quantity = filteredRecords.Count,
                 Trips = filteredRecords
             };
 

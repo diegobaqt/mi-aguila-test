@@ -95,7 +95,7 @@ namespace MyEagleTest.Controllers
         {
             try
             {
-                var createdTravel = _tripService.Add(trip);
+                _tripService.Add(trip);
                 return Ok(ServiceResponseExtension.TripCreatedSuccessfully);
             }
             catch (Exception ex)
