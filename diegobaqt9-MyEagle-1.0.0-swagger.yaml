@@ -1,0 +1,521 @@
+swagger: '2.0'
+info:
+  description: Esta documentación corresponde al API implementada en [myeagletest.azurewebsites.net](https://myeagletest.azurewebsites.net/) y su código fuente se encuentra en [aquí](https://github.com/diegobaqt/mi-aguila-test/tree/develop/MyEagleTest)
+  version: 1.0.0
+  title: Mi Águila - Test Backend
+  # put the contact info for your development or API team
+  contact:
+    email: dabaquerot@unal.edu.co
+
+  license:
+    name: Apache 2.0
+    url: http://www.apache.org/licenses/LICENSE-2.0.html
+
+# tags are used for organizing operations
+tags:
+- name: Trip
+  description: Trips information
+
+paths:
+  /Trip/GetAll:
+    get:
+      tags:
+      - Trip
+      summary: Returns a list all trips.
+      description: Finds all trips stored on database (without pagination).
+      produces:
+      - application/json
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: array
+            items:
+              $ref: "#/definitions/Trip"
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/GetAllFilteredAndPaged:
+    get:
+      tags:
+      - Trip
+      summary: Returns a list all trips according to the filters.
+      description: Finds all trips stored on database according to the parameters of filters and pagination. If the page size param is 0 (zero) it returns 10 (ten) elements. If the page param is 0 (zero) it returns the first page.
+      produces:
+      - application/json
+      parameters:
+      - name: page
+        in: "query"
+        required: false
+        type: number
+        description: "Number of page to finds records."
+      - name: pageSize
+        in: "query"
+        required: false
+        type: number
+        description: "Number of items per page."
+      - name: countryFilter
+        in: "query"
+        required: false
+        type: string
+        description: "Country name to filter results."
+      - name: cityFilter
+        in: "query"
+        required: false
+        type: string
+        description: "City name to filter results."
+      - name: statusFilter
+        in: "query"
+        required: false
+        type: string
+        description: 'Status trip name to filter results.'
+        items:
+          enum:
+          - "near"
+          - "onWAy"
+          - "started"
+      
+      responses:
+        200:
+          description: "OK"
+          schema:
+            $ref: "#/definitions/PagedListVm"
+            
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/GetQuantityRecords:
+    get:
+      tags:
+      - Trip
+      summary: Returns a number with quantity trips according to the filters.
+      description: Finds a quantity records by filter and paged settings.
+      produces:
+      - application/json
+      parameters:
+      - name: countryFilter
+        in: "query"
+        required: false
+        type: string
+        description: "Country name to filter results."
+      - name: cityFilter
+        in: "query"
+        required: false
+        type: string
+        description: "City name to filter results."
+      - name: statusFilter
+        in: "query"
+        required: false
+        type: string
+        description: 'Status trip name to filter results.'
+        items:
+          enum:
+          - "near"
+          - "onWAy"
+          - "started"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: number
+            example: 148
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/GetById:
+    get:
+      tags:
+      - Trip
+      summary: Returns a trip object by id.
+      description: Finds a trip by id stored on database.
+      produces:
+      - application/json
+      parameters:
+      - name: "id"
+        in: "path"
+        description: "Id of trip to find."
+        required: true
+        type: "string"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            $ref: "#/definitions/Trip"
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+        404:
+          description: "Not Found"
+          schema:
+            type: string
+            example: {
+              detail: "No se ha encontrado el elemento solicitado."
+            }
+  /Trip/Add:
+    post:
+      summary: "Adds a trip on database"
+      description: "Create a new Trip object on database"
+      tags:
+      - Trip
+      produces:
+      - application/json
+      parameters:
+      - name: trip
+        in: body
+        required: true
+        description: "Trip to add on database"
+        schema:
+          $ref: "#/definitions/Trip"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: string
+            example: {
+              detail: "Viaje creado exitosamente."
+            }
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/AddAll:
+    post:
+      summary: "Adds many trips on database"
+      description: "Adds many trips on database"
+      tags:
+      - Trip
+      produces:
+      - application/json
+      parameters:
+      - name: trips
+        in: body
+        required: true
+        description: "Trips list to add on database"
+        schema:
+          type: array
+          items:
+            $ref: "#/definitions/Trip"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: string
+            example: {
+              detail: "Viajes creados exitosamente."
+            }
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/Update:
+    put:
+      summary: "Updates a trip object stored on database"
+      description: "Updates a trip object stored on database"
+      tags:
+      - Trip
+      produces:
+      - application/json
+      parameters:
+      - name: trip
+        in: body
+        required: true
+        description: "Trip to update on database"
+        schema:
+          $ref: "#/definitions/Trip"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: string
+            example: {
+              detail: "Viaje modificado exitosamente."
+            }
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }
+  /Trip/Delete:
+    delete:
+      summary: "Removes a trip on database"
+      description: "Removes a trip on database"
+      tags:
+      - Trip
+      produces:
+      - application/json
+      parameters:
+      - name: trip
+        in: body
+        required: true
+        description: "Trip to remove on database"
+        schema:
+          $ref: "#/definitions/Trip"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: string
+            example: {
+              detail: "Viaje eliminado exitosamente."
+            }
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            }       
+  /Trip/DeleteById:
+    delete:
+      summary: "Removes a trip on database by id"
+      description: "Removes a trip on database by id"
+      tags:
+      - Trip
+      produces:
+      - application/json
+      parameters:
+      - name: "id"
+        in: body
+        required: true
+        description: "Id trip to remove on database"
+        schema:
+          example: "5d3f45aefd1a9b56f845fe14"
+      responses:
+        200:
+          description: "OK"
+          schema:
+            type: string
+            example: {
+              detail: "Viaje eliminado exitosamente."
+            }
+        400:
+          description: "Bad Request"
+          schema:
+            type: string
+            example: {
+              detail: "Ha ocurrido un error inesperado."
+            } 
+definitions:
+  Trip:
+    type: object
+    required:
+    - start
+    - end
+    - country
+    - city
+    - passenger
+    - driver
+    - car
+    - status
+    - check_code
+    - createdAt
+    - updatedAt
+    - price
+    - driver_location
+    properties:
+      id:
+        type: string
+        example: 5d3f456cfd1a9b56f845fe13
+      start:
+        $ref: '#/definitions/Start'
+      end:
+        $ref: '#/definitions/End'
+      country:
+        $ref: '#/definitions/Country'
+      city:
+        $ref: '#/definitions/City'
+      passenger:
+        $ref: '#/definitions/Passenger'
+      driver:
+        $ref: '#/definitions/Driver'
+      car:
+        $ref: '#/definitions/Car'
+      status:
+        type: string
+        example: "started"
+      check_code:
+        type: string
+        example: "92"
+      createdAt:
+        $ref: '#/definitions/CreatedAt'
+      updatedAt:
+        $ref: '#/definitions/UpdatedAt'
+      price:
+        type: number
+        format: decimal
+        example: "34100.0"
+      driver_location:
+        $ref: '#/definitions/DriverLocation'
+  Start: 
+    type: object
+    required:
+    - date
+    - pickup_address
+    - pickup_location
+    properties:
+      date:
+        type: string
+        format: date-time
+        example: "2019-01-25T03:55:25.006Z"
+      pickup_address:
+        type: string
+        example: "Cl 52A, Bogotá, Colombia"
+      pickup_location:
+        $ref: '#/definitions/PickupLocation'
+  End: 
+    type: object
+    required:
+    - pickup_address
+    - pickup_location
+    properties:
+      date:
+        type: string
+        format: date-time
+      pickup_address:
+        type: string
+        example: "87, casa 183, Cra. 114 #111A, Bogotá, Colombia"
+      pickup_location:
+        $ref: '#/definitions/PickupLocation'
+  Country:
+    type: object
+    required:
+    - name
+    properties:
+      name:
+        type: string
+        example: "Colombia"
+  City:
+    required:
+      - name
+    type: object
+    properties:
+      name:
+        type: string
+        example: "Bogotá"
+  Passenger:
+    type: object
+    required:
+    - first_name
+    - last_name
+    properties:
+      first_name:
+        type: string
+        example: "Transporte"
+      last_name:
+        type: string
+        example: "Mi Aguila"
+  Driver:
+    type: object
+    required:
+    - first_name
+    - last_name
+    properties:
+      first_name:
+        type: string
+        example: "Javier Gustavo"
+      last_name:
+        type: string
+        example: "Castañeda Saavedra"
+  Car:
+    type: object
+    required:
+    - plate
+    properties:
+      plate:
+        type: string
+        example: "WMZ550"
+  PickupLocation:
+    type: object
+    required:
+    - type
+    - coordinates
+    example:
+      type: "Point"
+      coordinates:
+      - -74.056519199999997
+      - 4.6761958999999997
+    properties:
+      type:
+        type: string
+      coordinates:
+        type: array
+        items:
+          type: number
+          format: double
+  DriverLocation:
+    type: object
+    required:
+    - type
+    - coordinates
+    example:
+      type: "Point"
+      coordinates:
+      - -74.056519199999997
+      - 4.6761958999999997
+    properties:
+      type:
+        type: string
+      coordinates:
+        type: array
+        items:
+          type: number
+          format: double
+  CreatedAt:
+    type: object
+    properties:
+      $date:
+        type: string
+        format: date-time
+        example: "2019-01-24T23:36:51.363Z"
+  UpdatedAt:
+    type: object
+    properties:
+      $date:
+        type: string
+        format: date-time
+        example: "2019-01-24T23:36:51.363Z"  
+  PagedListVm: 
+    type: object
+    properties:
+      Page:
+        type: number
+        example: 2
+      PageSize:
+        type: number
+        example: 20
+      RowCount:
+        type: number
+        example: 183
+      Collection:
+        type: array
+        items:
+          $ref: "#/definitions/Trip"
+# Added by API Auto Mocking Plugin
+host: virtserver.swaggerhub.com
+basePath: /diegobaqt9/MyEagle/1.0.0
+schemes:
+ - https
