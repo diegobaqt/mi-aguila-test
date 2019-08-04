@@ -44,5 +44,5 @@ Ahora, procedemos a crear la colección con el siguiente comando:
 Y se obtendrá el siguiente mensaje de: *{ "ok" : 1 }* como se muestra en la siguiente imagen:
 
 ![MongoDB](Database.PNG)
-Resultado de la creación de la base de datos y la colección.
+> Resultado de la creación de la base de datos y la colección.
 
