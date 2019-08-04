@@ -73,6 +73,29 @@ Y se obtendrá el siguiente mensaje de: *{ "ok" : 1 }* como se muestra en la sig
 
 ## Ejecución del API
 
-En primer lugar, asegúrese de tener la versión de *.NET Core 2.2.* el cual podrá descargar en el sigiente enlace [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download).
+En primer lugar, asegúrese de tener la versión de *.NET Core 2.2. SDK* el cual podrá descargar en el sigiente enlace [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download), para el SO de su preferencia.
+
+Se recomienda verificar que la versión sea igual o superior a la 2.2., con el siguiente comando:
+```
+> dotnet --version
+```
+
+Posteriormente, debe abrir una consola de comandos sobre la carpeta donde se encuentra la solución
+```
+> dotnet run
+```
+Este comando se encargará de instalar las dependencias, compilar y ejecutar la aplicación (por defecto, *http* en el puerto 5000 y *https* en el puerto 5001)
+
+![DotNetRun](dotnet-run.PNG)
+
+Finalmente, podremos realizar una prueba desde Postman, como se muestra en la siguiente imagen:
+
+![Ejemplo](ExamplePostman.PNG)
+
+-
+
+
+
+
 
 
