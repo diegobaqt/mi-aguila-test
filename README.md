@@ -46,3 +46,8 @@ Y se obtendrá el siguiente mensaje de: *{ "ok" : 1 }* como se muestra en la sig
 ![MongoDB](Database.PNG)
 > Resultado de la creación de la base de datos y la colección.
 
+## Ejecución del API
+
+En primer lugar, asegúrese de tener la versión de *.NET Core 2.2.* el cual podrá descargar en el sigiente enlace [https://dotnet.microsoft.com/download](https://dotnet.microsoft.com/download).
+
+
