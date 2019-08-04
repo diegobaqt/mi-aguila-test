@@ -92,7 +92,7 @@ Finalmente, podremos realizar una prueba desde Postman, como se muestra en la si
 
 ![Ejemplo](ExamplePostman.PNG)
 
--
+Elaborado por: *Diego Andrés Baquero*
 
 
 
