@@ -92,6 +92,15 @@ Finalmente, podremos realizar una prueba desde Postman, como se muestra en la si
 
 ![Ejemplo](ExamplePostman.PNG)
 
+
+## Arquitectura del API
+
+En la siguiente imagen se muestra la arquitectura general del API
+
+![Arquitectura](Architecture.png)
+
+Sin embargo, si desea conocer más información sobre el diseño e implementación de la aplicación, podrá descargar un documento haciendo clic aquí.
+
 Elaborado por: *Diego Andrés Baquero*
 
 
