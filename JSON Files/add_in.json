@@ -1,0 +1,51 @@
+{ 
+	"start" : { 
+		"date" : { 
+			"$date" : "2019-01-25T03:00:00.000+0000" 
+		}, 
+		"pickup_address" : "Cl 52A, Bogotá, Colombia", 
+		"pickup_location" : { 
+			"type" : "Point", 
+			"coordinates" : [ -74.118721, 4.683707099999999 ] 
+		} 
+	}, 
+	"end" : { 
+		"date" : null, 
+		"pickup_address" : "87, casa 183, Cra. 114 #111A, Bogotá, Colombia", 
+		"pickup_location" : { 
+			"type" : "Point", 
+			"coordinates" : [ -74.1010541, 4.7528479 ] 
+		} 
+	}, 
+	"country" : { 
+		"name" : "Colombia" 
+	}, 
+	"city" : { 
+		"name" : "Bogotá" 
+	}, 
+	"passenger" : { 
+		"first_name" : "Transporte", 
+		"last_name" : "Mi Aguila" 
+	}, 
+	"driver" : { 
+		"first_name" : "Javier Gustavo", 
+		"last_name" : "Castañeda Saavedra" 
+		
+	}, 
+	"car" : { 
+		"plate" : "WMZ550" 
+	}, 
+	"status" : "onWay", 
+	"check_code" : "92", 
+	"createdAt" : { 
+		"$date" : "2019-01-24T23:36:51.363+0000" 
+	}, 
+	"updatedAt" : { 
+		"$date" : "2019-01-25T03:55:25.006+0000" 
+	}, 
+	"price" : 34100.0, 
+	"driver_location" : { 
+		"type" : "Point", 
+		"coordinates" : [ -74.05707567930222, 4.6710183711654665 ] 
+	} 
+}

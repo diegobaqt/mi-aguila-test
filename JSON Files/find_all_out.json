@@ -1,0 +1,6062 @@
+[
+    {
+        "id": "5d448f6f7744a13550ceabc3",
+        "start": {
+            "date": {
+                "$date": "2019-01-25T03:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.118721,
+                    4.683707099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "87, casa 183, Cra. 114 #111A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1010541,
+                    4.7528479
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Javier Gustavo",
+            "last_name": "Castañeda Saavedra"
+        },
+        "car": {
+            "plate": "WMZ550"
+        },
+        "status": "onWay",
+        "check_code": "92",
+        "createdAt": {
+            "$date": "2019-01-24T23:36:51.363Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T03:55:25.006Z"
+        },
+        "price": 34100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05707567930222,
+                4.6710183711654665
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc4",
+        "start": {
+            "date": {
+                "$date": "2019-01-25T19:06:27.936Z"
+            },
+            "pickup_address": "Cl. 90 #19-41, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0565192,
+                    4.6761959
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ac. 100 #13-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0465655,
+                    4.6830892
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Ricardo",
+            "last_name": "Sarmiento"
+        },
+        "driver": {
+            "first_name": "Julio Alberto",
+            "last_name": "Mesa Rodriguez"
+        },
+        "car": {
+            "plate": "ESM308"
+        },
+        "status": "started",
+        "check_code": "66",
+        "createdAt": {
+            "$date": "2019-01-25T19:03:53.251Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T19:47:04.397Z"
+        },
+        "price": 13800.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.06017631292343,
+                4.669553302335373
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc5",
+        "start": {
+            "date": {
+                "$date": "2019-01-25T03:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.118721,
+                    4.683707099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "87, casa 183, Cra. 114 #111A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1010541,
+                    4.7528479
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Javier Gustavo",
+            "last_name": "Castañeda Saavedra"
+        },
+        "car": {
+            "plate": "WMZ550"
+        },
+        "status": "started",
+        "check_code": "92",
+        "createdAt": {
+            "$date": "2019-01-24T23:36:51.363Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T03:55:25.006Z"
+        },
+        "price": 34100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05707567930222,
+                4.6710183711654665
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc6",
+        "start": {
+            "date": {
+                "$date": "2019-01-24T10:51:02Z"
+            },
+            "pickup_address": "Esq. con calle carrera 7c, Cl. 129, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0308077,
+                    4.7081944
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Jeferson Mauricio",
+            "last_name": "Delgado Jimenez"
+        },
+        "car": {
+            "plate": "WGO385"
+        },
+        "status": "near",
+        "check_code": "19",
+        "createdAt": {
+            "$date": "2019-01-24T02:21:02.606Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-24T12:15:26.717Z"
+        },
+        "price": 36900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.064601957798,
+                4.727570534951482
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc7",
+        "start": {
+            "date": {
+                "$date": "2019-01-24T19:40:00Z"
+            },
+            "pickup_address": "Cra. 92, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0816191,
+                    4.7519795
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ak. 19 #90-56, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0557261,
+                    4.676638899999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Christine",
+            "last_name": "Ince"
+        },
+        "driver": {
+            "first_name": "Andres Fernando",
+            "last_name": "Alvarez Gonzalez"
+        },
+        "car": {
+            "plate": "WNZ132"
+        },
+        "status": "onWay",
+        "check_code": "58",
+        "createdAt": {
+            "$date": "2019-01-23T15:30:52.732Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-24T20:23:04.545Z"
+        },
+        "price": 22700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.07817393541336,
+                4.600043643982822
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc8",
+        "start": {
+            "date": {
+                "$date": "2019-01-23T02:30:12.765Z"
+            },
+            "pickup_address": "Cra. 9 #80-15, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0522469,
+                    4.6633728
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 17 #163A-43, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0404901,
+                    4.7432147
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Juan Dayan",
+            "last_name": "Beltrán Carranza"
+        },
+        "driver": {
+            "first_name": "Evencio ",
+            "last_name": "Vargas Lopez "
+        },
+        "car": {
+            "plate": "SZM019"
+        },
+        "status": "onWay",
+        "check_code": "62",
+        "createdAt": {
+            "$date": "2019-01-23T02:17:56.208Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-24T03:00:04.862Z"
+        },
+        "price": 6500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.07302409410477,
+                4.677405868487007
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabc9",
+        "start": {
+            "date": {
+                "$date": "2019-01-23T12:20:36Z"
+            },
+            "pickup_address": "Cra. 8 #95-33, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.041545,
+                    4.676861
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 7 #77-10, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0522581,
+                    4.6595548
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Jose Eusebio",
+            "last_name": "Otalora Murillo"
+        },
+        "driver": {
+            "first_name": "Ribervin",
+            "last_name": "Ojeda Romero"
+        },
+        "car": {
+            "plate": "EXZ583"
+        },
+        "status": "near",
+        "check_code": "92",
+        "createdAt": {
+            "$date": "2019-01-23T00:53:00.948Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-23T17:13:56.133Z"
+        },
+        "price": 10600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.1179296374321,
+                4.6846501015604005
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabca",
+        "start": {
+            "date": {
+                "$date": "2019-01-22T14:44:39.969Z"
+            },
+            "pickup_address": "Cl. 96 ##13a-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0485216,
+                    4.6809538
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Starbucks Centro Internacional - Cra. 13 #27-94, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0699798,
+                    4.6154771
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Maria Camila",
+            "last_name": "Puentes Diaz"
+        },
+        "driver": {
+            "first_name": "Armando ",
+            "last_name": "Diaz Suarez"
+        },
+        "car": {
+            "plate": "WOW395"
+        },
+        "status": "near",
+        "check_code": "19",
+        "createdAt": {
+            "$date": "2019-01-22T14:35:47.287Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-22T16:44:00.001Z"
+        },
+        "price": 20300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05122846364975,
+                4.675117015280122
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabcb",
+        "start": {
+            "date": {
+                "$date": "2019-01-22T12:30:00Z"
+            },
+            "pickup_address": "Cra. 11 #8276, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05197799999999,
+                    4.6665162
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 54a #127a-45, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0630204,
+                    4.711023099999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Gloria Cecilia",
+            "last_name": "Gil Gutierrez"
+        },
+        "driver": {
+            "first_name": "German Eduardo ",
+            "last_name": "Gonzalez Cardenas "
+        },
+        "car": {
+            "plate": "WNU017"
+        },
+        "status": "started",
+        "check_code": "13",
+        "createdAt": {
+            "$date": "2019-01-21T23:32:11.865Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-22T13:25:46.938Z"
+        },
+        "price": 12700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05819684267044,
+                4.678516076354789
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabcc",
+        "start": {
+            "date": {
+                "$date": "2019-01-21T13:26:22.014Z"
+            },
+            "pickup_address": "Inexmoda - Carrera 43 # 9 Sur - 195, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5758876,
+                    6.1941856
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Parque San Antonio - Cl. 44 #46-50, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.56871350000002,
+                    6.246074999999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Jorge",
+            "last_name": "Londoño Mejía"
+        },
+        "driver": {
+            "first_name": "Omar Fernando ",
+            "last_name": "Calderon Montoya "
+        },
+        "car": {
+            "plate": "WDX501"
+        },
+        "status": "near",
+        "check_code": "60",
+        "createdAt": {
+            "$date": "2019-01-21T13:12:05.966Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-21T16:07:10.548Z"
+        },
+        "price": 50900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.58576852083206,
+                6.221568137640936
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabcd",
+        "start": {
+            "date": {
+                "$date": "2019-01-25T12:25:00Z"
+            },
+            "pickup_address": "Cl. 104 #19a-18, bogotá, colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05260380000001,
+                    4.6905975
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 73 #7-78, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0554287,
+                    4.6564917
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Mauricio",
+            "last_name": "Garces"
+        },
+        "driver": {
+            "first_name": "Isidoro ",
+            "last_name": "Valbuena Amaya "
+        },
+        "car": {
+            "plate": "TSP521"
+        },
+        "status": "onWay",
+        "check_code": "69",
+        "createdAt": {
+            "$date": "2019-01-20T22:46:18.519Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T21:10:30.141Z"
+        },
+        "price": 14100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.20172721147537,
+                4.638799530509111
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabce",
+        "start": {
+            "date": {
+                "$date": "2019-01-20T18:20:53.98Z"
+            },
+            "pickup_address": "Puerta 1-Salidas-Aeropuerto El Dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1420108,
+                    4.6976984
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "City Express Junior Bogotá Aeropuerto - Dg. 25g #95 - 66, Bogotá, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1222913,
+                    4.6802495
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Gilber Alexander",
+            "last_name": "Dominguez"
+        },
+        "driver": {
+            "first_name": "Ilmo Jose",
+            "last_name": "Roncancio Parra"
+        },
+        "car": {
+            "plate": "WNV375"
+        },
+        "status": "onWay",
+        "check_code": "75",
+        "createdAt": {
+            "$date": "2019-01-20T18:13:15.333Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-21T09:38:27.921Z"
+        },
+        "price": 27700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.14054602384567,
+                4.695567145593664
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabcf",
+        "start": {
+            "date": {
+                "$date": "2019-01-19T16:33:00Z"
+            },
+            "pickup_address": "Cl. 116 #45-50, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0607722,
+                    4.7010919
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 103 #69b-43, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.07265269999999,
+                    4.694620899999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Kriss Jenny",
+            "last_name": "Plata Parada"
+        },
+        "driver": {
+            "first_name": "Freddy ",
+            "last_name": "Castellanos Quiroga"
+        },
+        "car": {
+            "plate": "WEP161"
+        },
+        "status": "started",
+        "check_code": "56",
+        "createdAt": {
+            "$date": "2019-01-19T16:01:54.896Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-19T21:26:26.656Z"
+        },
+        "price": 15300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05029505491257,
+                4.694079264273135
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd0",
+        "start": {
+            "date": {
+                "$date": "2019-01-19T03:15:59.345Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11874759999999,
+                    4.683732399999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Av. El Dorado #92-32, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1212827,
+                    4.684220799999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Robinson David",
+            "last_name": "Montiel"
+        },
+        "car": {
+            "plate": "WMO016"
+        },
+        "status": "near",
+        "check_code": "88",
+        "createdAt": {
+            "$date": "2019-01-19T03:15:50.332Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-22T05:00:09.801Z"
+        },
+        "price": 12700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.1187396645546,
+                4.683729997779558
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd1",
+        "start": {
+            "date": {
+                "$date": "2019-01-18T21:44:18.939Z"
+            },
+            "pickup_address": "Cl. 108 #45-30, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0570682,
+                    4.6956694
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Centro Comercial Hacienda Santa Bárbara - Cra. 7 #115 - 72, Bogotá, Usaquén, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.032971,
+                    4.6927709
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Natalia",
+            "last_name": "Trujillo"
+        },
+        "driver": {
+            "first_name": "Daniel",
+            "last_name": "Torres Moscoso"
+        },
+        "car": {
+            "plate": "WHT087"
+        },
+        "status": "near",
+        "check_code": "58",
+        "createdAt": {
+            "$date": "2019-01-18T21:39:23.277Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-21T19:13:23.629Z"
+        },
+        "price": 11200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0648004412651,
+                4.709021445507439
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd2",
+        "start": {
+            "date": {
+                "$date": "2019-01-18T03:00:00Z"
+            },
+            "pickup_address": "Cra. 91 #52-98, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11872000000001,
+                    4.6837100000000005
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 71 Sur #46a-39, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.13408000000001,
+                    4.58037
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Fray Alfonso",
+            "last_name": "Salazar"
+        },
+        "car": {
+            "plate": "ESM554"
+        },
+        "status": "onWay",
+        "check_code": "14",
+        "createdAt": {
+            "$date": "2019-01-17T23:05:47.014Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T05:00:11.529Z"
+        },
+        "price": 53000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05484408140182,
+                4.74479143050803
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd3",
+        "start": {
+            "date": {
+                "$date": "2019-01-18T21:00:00Z"
+            },
+            "pickup_address": "Ak. 9 #113-52, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03516019999999,
+                    4.6927101
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Aeropuerto internacional el dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1406981,
+                    4.6977924
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Lina Marcela",
+            "last_name": "Ramón Castro"
+        },
+        "driver": {
+            "first_name": "Ivan Fernando",
+            "last_name": "Gonzalez Bermudez"
+        },
+        "car": {
+            "plate": "TGN493"
+        },
+        "status": "started",
+        "check_code": "47",
+        "createdAt": {
+            "$date": "2019-01-17T22:12:26.276Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-18T21:45:42.511Z"
+        },
+        "price": 37100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04795616865158,
+                4.685892114928471
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd4",
+        "start": {
+            "date": {
+                "$date": "2019-01-17T17:36:32.164Z"
+            },
+            "pickup_address": "Cra. 13a #90-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05205389999999,
+                    4.6738366
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 119a #57-61 - Cl. 119a #57-61, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0690374,
+                    4.7048144
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Mauricio ",
+            "last_name": "Ruge"
+        },
+        "driver": {
+            "first_name": "Rafael Antonio ",
+            "last_name": "Torres Corredor "
+        },
+        "car": {
+            "plate": "WGY079"
+        },
+        "status": "onWay",
+        "check_code": "82",
+        "createdAt": {
+            "$date": "2019-01-17T17:31:43.546Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-19T01:03:43.423Z"
+        },
+        "price": 14900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0563890337944,
+                4.667343025484428
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd5",
+        "start": {
+            "date": {
+                "$date": "2019-01-17T17:16:23.939Z"
+            },
+            "pickup_address": "Cl. 110 #9-25, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0387877,
+                    4.6904033
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 68d #25, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11709789999999,
+                    4.645820500000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Alexander",
+            "last_name": "Castillo"
+        },
+        "driver": {
+            "first_name": "Martha Liliana ",
+            "last_name": "Garcia Sanchez"
+        },
+        "car": {
+            "plate": "EXX857"
+        },
+        "status": "near",
+        "check_code": "69",
+        "createdAt": {
+            "$date": "2019-01-17T17:08:24.192Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-17T18:52:30.448Z"
+        },
+        "price": 28900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0574511885643,
+                4.673839515815814
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd6",
+        "start": {
+            "date": {
+                "$date": "2019-01-17T13:25:00Z"
+            },
+            "pickup_address": "Aeropuerto Olaya Herrera - Cra. 65 #13-157, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5878305,
+                    6.220314900000001
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 57 #42-82, Itagüi, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6175074,
+                    6.173619899999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Juan Gabriel",
+            "last_name": "Correa Velez"
+        },
+        "driver": {
+            "first_name": "Diego ",
+            "last_name": "Jaramillo Espitia "
+        },
+        "car": {
+            "plate": "WCO578"
+        },
+        "status": "started",
+        "check_code": "62",
+        "createdAt": {
+            "$date": "2019-01-17T10:58:40.518Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-17T13:50:11.305Z"
+        },
+        "price": 15200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.61436623334885,
+                6.246469238310276
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd7",
+        "start": {
+            "date": {
+                "$date": "2019-01-17T10:55:20Z"
+            },
+            "pickup_address": "#41b-, Cl. 7 Sur #41b67, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5726497,
+                    6.1968084
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Mall Bulevar Llano Grande - Llanogrande-Rio Negro, Santa Lucia, Llano Grande, Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4236581,
+                    6.1247875
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Marcela",
+            "last_name": "Roa"
+        },
+        "driver": {
+            "first_name": "William Albeiro",
+            "last_name": "Gil Lopez"
+        },
+        "car": {
+            "plate": "ESP937"
+        },
+        "status": "started",
+        "check_code": "62",
+        "createdAt": {
+            "$date": "2019-01-17T05:27:18.717Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-19T05:00:06.56Z"
+        },
+        "price": 90000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.57764142751694,
+                6.157229310453431
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd8",
+        "start": {
+            "date": {
+                "$date": "2019-01-16T21:00:00Z"
+            },
+            "pickup_address": "Km 3.5 autopista Medellin Centro empresarial metropolitano Modulo 1 Bodega 10, Cota, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1446121,
+                    4.7513881
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "no. Bogota, Cra. 11B #9659, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0461198,
+                    4.6805599
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Miguel",
+            "last_name": "Nuñez"
+        },
+        "driver": {
+            "first_name": "Jonnathan Steven",
+            "last_name": "Casteblanco Poveda"
+        },
+        "car": {
+            "plate": "WNY986"
+        },
+        "status": "onWay",
+        "check_code": "78",
+        "createdAt": {
+            "$date": "2019-01-16T13:25:11.617Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-16T22:34:13.777Z"
+        },
+        "price": 63500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09465879201889,
+                4.737215148962768
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabd9",
+        "start": {
+            "date": {
+                "$date": "2019-01-16T01:00:34Z"
+            },
+            "pickup_address": "Aeropuerto Ernesto Cortissoz - Aeropuerto Internacional Ernesto Cortissoz, Soledad, Atlántico, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.7762822,
+                    10.886482
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Movich Buró 51 - Cl. 94 ##51B - 43, Barranquilla, Atlántico, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.8251906,
+                    11.0096677
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Barranquilla"
+        },
+        "passenger": {
+            "first_name": "Beatriz",
+            "last_name": "Marulanda"
+        },
+        "driver": {
+            "first_name": "Francisco Javier",
+            "last_name": "Gomez Medrano"
+        },
+        "car": {
+            "plate": "WEO281"
+        },
+        "status": "onWay",
+        "check_code": "69",
+        "createdAt": {
+            "$date": "2019-01-15T20:33:06.184Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-17T12:58:01.888Z"
+        },
+        "price": 46300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.79857236146927,
+                10.998777384416321
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabda",
+        "start": {
+            "date": {
+                "$date": "2019-01-15T01:45:00Z"
+            },
+            "pickup_address": "Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.42785,
+                    6.1709000000000005
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Carrera 42 n° 5 - sur 130, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.57278000000001,
+                    6.1973
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Laura Maria",
+            "last_name": "Pineda"
+        },
+        "driver": {
+            "first_name": "Eduar Fernando",
+            "last_name": "Betancur Chavarriaga"
+        },
+        "car": {
+            "plate": "WPN670"
+        },
+        "status": "started",
+        "check_code": "60",
+        "createdAt": {
+            "$date": "2019-01-14T23:32:32.861Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-18T05:00:03.299Z"
+        },
+        "price": 84720.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.43524295091629,
+                6.174845622510837
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabdb",
+        "start": {
+            "date": {
+                "$date": "2019-01-14T23:20:05.527Z"
+            },
+            "pickup_address": "Cl. 74 #11-61, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05875309999999,
+                    4.6598878
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 61 #3a-15, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05743819999999,
+                    4.6444158
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Paula",
+            "last_name": "Hincapie Montoya"
+        },
+        "driver": {
+            "first_name": "Wilfredo",
+            "last_name": "Mendoza Tapiero"
+        },
+        "car": {
+            "plate": "WNZ848"
+        },
+        "status": "onWay",
+        "check_code": "40",
+        "createdAt": {
+            "$date": "2019-01-14T23:18:06.765Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-16T12:33:46.288Z"
+        },
+        "price": 7700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05801981687546,
+                4.658327022320655
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabdc",
+        "start": {
+            "date": {
+                "$date": "2019-01-14T21:03:09.086Z"
+            },
+            "pickup_address": "Cl. 82 #11 - 37 - Cl. 82 #11 - 37, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05338189999999,
+                    4.665901499999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 109 #18c-13, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05012070000001,
+                    4.694932
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Robert Wilson",
+            "last_name": "Rocha Bohorquez"
+        },
+        "driver": {
+            "first_name": "Ramiro",
+            "last_name": "Vargas Quiroga"
+        },
+        "car": {
+            "plate": "EXZ699"
+        },
+        "status": "onWay",
+        "check_code": "79",
+        "createdAt": {
+            "$date": "2019-01-14T20:57:29.409Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-14T21:45:25.282Z"
+        },
+        "price": 6400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05760139226913,
+                4.668035004360924
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabdd",
+        "start": {
+            "date": {
+                "$date": "2019-01-14T16:40:42Z"
+            },
+            "pickup_address": "Cl. 147 #17 - 60, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0443342,
+                    4.7296686
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Club El Nogal - Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05104349999999,
+                    4.6605006
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Maria Cristina",
+            "last_name": "Camejo Torrado"
+        },
+        "driver": {
+            "first_name": "Edilberto ",
+            "last_name": "Maestre Dihoyos "
+        },
+        "car": {
+            "plate": "WMY682"
+        },
+        "status": "onWay",
+        "check_code": "50",
+        "createdAt": {
+            "$date": "2019-01-14T16:04:07.897Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-14T21:13:54.28Z"
+        },
+        "price": 21100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04885739088058,
+                4.717287171208042
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabde",
+        "start": {
+            "date": {
+                "$date": "2019-01-14T11:00:00Z"
+            },
+            "pickup_address": "Cl. 128d #21-43, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05109879999999,
+                    4.714775599999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 18a #43-9, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0715878,
+                    4.631649599999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Jaime Andrés",
+            "last_name": "Escobar Zapata"
+        },
+        "driver": {
+            "first_name": "Fernando",
+            "last_name": "Valero Murillo"
+        },
+        "car": {
+            "plate": "ESK993"
+        },
+        "status": "onWay",
+        "check_code": "68",
+        "createdAt": {
+            "$date": "2019-01-14T07:10:11.577Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-15T23:51:46.324Z"
+        },
+        "price": 18600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.18272107839584,
+                4.692074299836101
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabdf",
+        "start": {
+            "date": {
+                "$date": "2019-01-12T07:27:15.966Z"
+            },
+            "pickup_address": "Cra. 58 #128B-30, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0694003,
+                    4.7166404
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Gallery Lagartos - #71d51 Cl 127 # 87a, Cl. 127 #71d51, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08821,
+                    4.713704799999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Carol Briceida",
+            "last_name": "Becerra Galindo"
+        },
+        "driver": {
+            "first_name": "Carlos Andres ",
+            "last_name": "Paez Parra "
+        },
+        "car": {
+            "plate": "TSY088"
+        },
+        "status": "near",
+        "check_code": "88",
+        "createdAt": {
+            "$date": "2019-01-12T07:15:06.892Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-16T03:07:19.168Z"
+        },
+        "price": 11800.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04272049665451,
+                4.703538843639784
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe0",
+        "start": {
+            "date": {
+                "$date": "2019-01-12T02:57:34.721Z"
+            },
+            "pickup_address": "Ac. 82 #10-33, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0518785,
+                    4.6664024
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 28a #53a-66, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0780956,
+                    4.6437044
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Luz Janeth",
+            "last_name": "Hernandez Mayorga"
+        },
+        "driver": {
+            "first_name": "Carlos Arturo",
+            "last_name": "Sanchez Cordoba"
+        },
+        "car": {
+            "plate": "FRR430"
+        },
+        "status": "started",
+        "check_code": "13",
+        "createdAt": {
+            "$date": "2019-01-12T02:51:08.056Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-22T20:38:04.131Z"
+        },
+        "price": 16700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0497425198555,
+                4.6641340684967005
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe1",
+        "start": {
+            "date": {
+                "$date": "2019-01-12T02:45:47Z"
+            },
+            "pickup_address": "Premium Plaza - Cra. 43A ###30-25, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5704523,
+                    6.2295769
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Hotel Egina Medellin - # 68A Calle 47 #80, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5873283,
+                    6.2525172
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Jenny Noelia",
+            "last_name": "Ramírez Espejo"
+        },
+        "driver": {
+            "first_name": "Juan Guillermo ",
+            "last_name": "Rueda "
+        },
+        "car": {
+            "plate": "WNU563"
+        },
+        "status": "onWay",
+        "check_code": "90",
+        "createdAt": {
+            "$date": "2019-01-12T01:05:29.094Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-12T14:56:30.922Z"
+        },
+        "price": 0.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.55927366018295,
+                6.2073508866581975
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe2",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T23:20:00Z"
+            },
+            "pickup_address": "Unnamed Road, Cota, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.14821,
+                    4.7605900000000005
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 17a #119a-65, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04639,
+                    4.700620000000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Carlos Arturo",
+            "last_name": "Sanchez Beltran "
+        },
+        "car": {
+            "plate": "FRR430"
+        },
+        "status": "started",
+        "check_code": "16",
+        "createdAt": {
+            "$date": "2019-01-11T21:17:13.336Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T15:02:02.222Z"
+        },
+        "price": 63500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09474462270737,
+                4.736307718787721
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe3",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T21:50:00Z"
+            },
+            "pickup_address": "Ak. 50 #19-55, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1012416,
+                    4.634981199999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 67 #94a-78, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0721487,
+                    4.6866496
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Patricia",
+            "last_name": "Rincon Ibarra"
+        },
+        "driver": {
+            "first_name": "Heiner  Javier ",
+            "last_name": "Perez Urrego "
+        },
+        "car": {
+            "plate": "EYX364"
+        },
+        "status": "near",
+        "check_code": "31",
+        "createdAt": {
+            "$date": "2019-01-11T20:32:26.753Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-14T03:58:17.288Z"
+        },
+        "price": 17600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09778624773026,
+                4.6375549824198785
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe4",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T21:30:00Z"
+            },
+            "pickup_address": "Cafam Floresta, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0731679,
+                    4.6859799
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 77 #18-51, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1294276,
+                    4.6542388
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Angela",
+            "last_name": "Rivera Prada"
+        },
+        "driver": {
+            "first_name": "Carlos Andres",
+            "last_name": "Ramirez Capera"
+        },
+        "car": {
+            "plate": "WPO046"
+        },
+        "status": "near",
+        "check_code": "65",
+        "createdAt": {
+            "$date": "2019-01-11T19:20:28.432Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-24T23:23:20.944Z"
+        },
+        "price": 21500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.08535152673721,
+                4.671968891600223
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe5",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T10:25:07.09Z"
+            },
+            "pickup_address": "Cra. 9 #80-21",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0521121,
+                    4.6632661
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "DG 5A - Kr 74, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.14401579999999,
+                    4.626481699999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Jorge Arturo",
+            "last_name": "Botía Ruiz"
+        },
+        "driver": {
+            "first_name": "Juan Guillermo",
+            "last_name": "Fernandez Aparicio"
+        },
+        "car": {
+            "plate": "WPL979"
+        },
+        "status": "near",
+        "check_code": "81",
+        "createdAt": {
+            "$date": "2019-01-11T09:57:55.75Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-12T00:07:05.802Z"
+        },
+        "price": 21700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09518986940384,
+                4.728480499847684
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe6",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T11:10:00Z"
+            },
+            "pickup_address": "Cra. 71 #25-15, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5924898,
+                    6.226367
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Simex - Cra. 48 #48 Sur-181, Envigado, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6023834,
+                    6.1634924
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Xavier",
+            "last_name": "Casique"
+        },
+        "driver": {
+            "first_name": "Nestor Raul ",
+            "last_name": "Gonzales Forero "
+        },
+        "car": {
+            "plate": "ESP536"
+        },
+        "status": "started",
+        "check_code": "11",
+        "createdAt": {
+            "$date": "2019-01-11T00:37:04.532Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-11T14:58:29.829Z"
+        },
+        "price": 17700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.55927366018295,
+                6.2073508866581975
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe7",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T03:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.118721,
+                    4.683707099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 110 #152a-65, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0965191,
+                    4.754648299999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Elvis Gerleys",
+            "last_name": "Suarez Rodriguez"
+        },
+        "car": {
+            "plate": "EXZ801"
+        },
+        "status": "started",
+        "check_code": "61",
+        "createdAt": {
+            "$date": "2019-01-10T23:43:29.551Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-12T05:00:10.861Z"
+        },
+        "price": 21500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.16624158620834,
+                4.632784637198
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe8",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T22:30:00Z"
+            },
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 159 #17-94, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04278819999999,
+                    4.738659000000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Armando ",
+            "last_name": "Poloche Poloche"
+        },
+        "car": {
+            "plate": "WPR034"
+        },
+        "status": "onWay",
+        "check_code": "70",
+        "createdAt": {
+            "$date": "2019-01-10T23:17:07.591Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-11T23:15:04.853Z"
+        },
+        "price": 20700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.13952142000198,
+                4.69493853474615
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabe9",
+        "start": {
+            "date": {
+                "$date": "2019-01-10T02:00:00Z"
+            },
+            "pickup_address": "Glorieta Del Aeropuerto, Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.43438909999999,
+                    6.174268199999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Calle 16 #28-51, Medellin, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.55799689999999,
+                    6.2139109
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Beatriz",
+            "last_name": "Marulanda"
+        },
+        "driver": {
+            "first_name": "Walter  Wiliiam",
+            "last_name": "Reyes David"
+        },
+        "car": {
+            "plate": "WNR983"
+        },
+        "status": "started",
+        "check_code": "42",
+        "createdAt": {
+            "$date": "2019-01-09T23:45:36.08Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-11T19:27:35.683Z"
+        },
+        "price": 84720.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.43395549058914,
+                6.172711387294676
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabea",
+        "start": {
+            "date": {
+                "$date": "2019-01-09T20:49:50.223Z"
+            },
+            "pickup_address": "Cra 45 #24b-27, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09376859999999,
+                    4.6355767
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ed. Parque Natura - Cl. 92 #14-56, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0517821,
+                    4.675606999999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Jennifer",
+            "last_name": "Mccard"
+        },
+        "driver": {
+            "first_name": "Luis Felipe ",
+            "last_name": "Villalobos Contreras"
+        },
+        "car": {
+            "plate": "ESL999"
+        },
+        "status": "onWay",
+        "check_code": "15",
+        "createdAt": {
+            "$date": "2019-01-09T20:48:11.352Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T18:14:23.105Z"
+        },
+        "price": 16500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09330159425735,
+                4.632470331774243
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabeb",
+        "start": {
+            "date": {
+                "$date": "2019-01-08T21:56:27.942Z"
+            },
+            "pickup_address": "Cra 45 #24b13, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0939178,
+                    4.6354772
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 92 #14-56, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05191169999999,
+                    4.6756755
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Nathaniel",
+            "last_name": "Bills"
+        },
+        "driver": {
+            "first_name": "Luis Alfonso",
+            "last_name": "Daza Rincon"
+        },
+        "car": {
+            "plate": "WNY062"
+        },
+        "status": "near",
+        "check_code": "30",
+        "createdAt": {
+            "$date": "2019-01-08T21:47:43.178Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-25T23:20:02.888Z"
+        },
+        "price": 15500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0793165564537,
+                4.6349974487701004
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabec",
+        "start": {
+            "date": {
+                "$date": "2019-01-05T02:00:00Z"
+            },
+            "pickup_address": "Upper Side - Carrera 13 # 81 - 24, Piso 4, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05522630000002,
+                    4.6664059
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 53 #147a-36, bogotá, colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05458039999999,
+                    4.731705600000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Juan Felipe",
+            "last_name": "Quintanilla L"
+        },
+        "driver": {
+            "first_name": "Edinson Abel",
+            "last_name": "Valero Rodriguez"
+        },
+        "car": {
+            "plate": "WFR455"
+        },
+        "status": "onWay",
+        "check_code": "87",
+        "createdAt": {
+            "$date": "2019-01-05T00:27:14.251Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-06T19:24:38.432Z"
+        },
+        "price": 29300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.15884405374527,
+                4.643227688374473
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabed",
+        "start": {
+            "date": {
+                "$date": "2019-01-05T04:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.118721,
+                    4.683707099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 6a #6A-47, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1601171,
+                    4.6488691
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Jose Federico",
+            "last_name": "Velandia"
+        },
+        "car": {
+            "plate": "EXZ468"
+        },
+        "status": "near",
+        "check_code": "27",
+        "createdAt": {
+            "$date": "2019-01-05T00:03:37.274Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-09T05:00:13.057Z"
+        },
+        "price": 23400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.13860946893692,
+                4.6116399932867935
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabee",
+        "start": {
+            "date": {
+                "$date": "2019-01-04T12:58:31.1Z"
+            },
+            "pickup_address": "El pinar alto - carrera 5 #81-50, bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0480297,
+                    4.6618287
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra 45 #24b-27, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.093819,
+                    4.6355431
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Camila",
+            "last_name": "Gomez"
+        },
+        "driver": {
+            "first_name": "Diego ",
+            "last_name": "Vanegas Gacha "
+        },
+        "car": {
+            "plate": "WNX036"
+        },
+        "status": "started",
+        "check_code": "24",
+        "createdAt": {
+            "$date": "2019-01-04T12:50:23.498Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-04T19:57:16.883Z"
+        },
+        "price": 15300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0596666932106,
+                4.653037059261116
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabef",
+        "start": {
+            "date": {
+                "$date": "2019-01-04T10:59:08Z"
+            },
+            "pickup_address": "Cra. 57 #117d-50, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.06792899999999,
+                    4.7044065
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Jhon Jairo",
+            "last_name": "Rodriguez Murillo"
+        },
+        "car": {
+            "plate": "EXZ404"
+        },
+        "status": "near",
+        "check_code": "70",
+        "createdAt": {
+            "$date": "2019-01-03T22:22:43.907Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-04T11:35:30.438Z"
+        },
+        "price": 23400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.08219188451767,
+                4.584972191969392
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf0",
+        "start": {
+            "date": {
+                "$date": "2019-01-11T12:30:00Z"
+            },
+            "pickup_address": "Cl. 116 #18-60, Bogotá, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0492305,
+                    4.6985674
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 23 #124-87, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05313,
+                    4.705229699999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Janeth ",
+            "last_name": "Silva Saldaña "
+        },
+        "car": {
+            "plate": "ESO457"
+        },
+        "status": "onWay",
+        "check_code": "85",
+        "createdAt": {
+            "$date": "2019-01-03T16:28:01.567Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-11T19:19:51.69Z"
+        },
+        "price": 10600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10931438207626,
+                4.684482809963875
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf1",
+        "start": {
+            "date": {
+                "$date": "2019-01-03T03:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.118721,
+                    4.683707099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 54f Sur #94-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1888561,
+                    4.633317
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Oscar Diego",
+            "last_name": "Muñoz Cadavid"
+        },
+        "car": {
+            "plate": "WNV114"
+        },
+        "status": "started",
+        "check_code": "57",
+        "createdAt": {
+            "$date": "2019-01-02T23:01:38.313Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-03T03:49:05.924Z"
+        },
+        "price": 33700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.19471591711044,
+                4.644051472751265
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf2",
+        "start": {
+            "date": {
+                "$date": "2019-01-02T22:00:00Z"
+            },
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 54 #152A-50, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0545911,
+                    4.7382731
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Luis Alexander",
+            "last_name": "Chacon Castillo"
+        },
+        "car": {
+            "plate": "WFR514"
+        },
+        "status": "near",
+        "check_code": "83",
+        "createdAt": {
+            "$date": "2019-01-01T01:00:16.959Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-02T22:53:06.191Z"
+        },
+        "price": 28200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05640512704849,
+                4.667299935224719
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf3",
+        "start": {
+            "date": {
+                "$date": "2019-01-02T22:30:00Z"
+            },
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 73f ##60a-40 Sur, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.17091889999999,
+                    4.5910755
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Miguel Angel ",
+            "last_name": "Guzman Contreras "
+        },
+        "car": {
+            "plate": "TZQ627"
+        },
+        "status": "onWay",
+        "check_code": "37",
+        "createdAt": {
+            "$date": "2019-01-01T00:59:00.159Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-02T23:21:07.36Z"
+        },
+        "price": 25600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.21589463949203,
+                4.604611211511944
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf4",
+        "start": {
+            "date": {
+                "$date": "2018-12-31T05:46:42.53Z"
+            },
+            "pickup_address": "Avenida 15 # 124-30 Centro Comercial Unicentro, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0411506,
+                    4.7035064
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Suba, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08388860000001,
+                    4.7406442
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Miguel Angel ",
+            "last_name": "Perez Bedoya "
+        },
+        "car": {
+            "plate": "WNR898"
+        },
+        "status": "started",
+        "check_code": "37",
+        "createdAt": {
+            "$date": "2018-12-31T05:42:40.869Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-31T06:55:04.215Z"
+        },
+        "price": 28300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05576676130295,
+                4.706258599443764
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf5",
+        "start": {
+            "date": {
+                "$date": "2018-12-29T22:24:37.267Z"
+            },
+            "pickup_address": "Cl. 12 #31-03, Cali, Valle del Cauca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5306533,
+                    3.4274818
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Alkosto Cali - Cl. 13 #80-187, Cali, Valle del Cauca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.53729589999999,
+                    3.3853021
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Cali"
+        },
+        "passenger": {
+            "first_name": "Jonathan Enrique",
+            "last_name": "Rivera Lopez"
+        },
+        "driver": {
+            "first_name": "Yeyson",
+            "last_name": "Aguilar Ulcue"
+        },
+        "car": {
+            "plate": "WPK005"
+        },
+        "status": "near",
+        "check_code": "89",
+        "createdAt": {
+            "$date": "2018-12-29T21:58:49.953Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-31T00:08:25.705Z"
+        },
+        "price": 17200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -76.53081804513931,
+                3.460506517657649
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf6",
+        "start": {
+            "date": {
+                "$date": "2018-12-29T15:05:38.529Z"
+            },
+            "pickup_address": "Puente Aéreo-Llegada Viajeros-Aeropuerto El Dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.133918,
+                    4.6927216
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Droguería Rafael Núñez - Calle 44 D # 45-30, local 1, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.08685750000001,
+                    4.6430383
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Mayerline",
+            "last_name": "Santamaria Neira"
+        },
+        "driver": {
+            "first_name": "Edgar Giovanni",
+            "last_name": "Guzman Doncel "
+        },
+        "car": {
+            "plate": "EXZ707"
+        },
+        "status": "near",
+        "check_code": "38",
+        "createdAt": {
+            "$date": "2018-12-29T14:55:52.868Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-08T00:59:50.793Z"
+        },
+        "price": 33900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10798400640488,
+                4.6591837580725155
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf7",
+        "start": {
+            "date": {
+                "$date": "2018-12-31T11:36:38Z"
+            },
+            "pickup_address": "Cl. 39 Sur #5-6, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10185489999999,
+                    4.5613585
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Royer Mauricio",
+            "last_name": "Roldan Baez"
+        },
+        "car": {
+            "plate": "WNT585"
+        },
+        "status": "onWay",
+        "check_code": "62",
+        "createdAt": {
+            "$date": "2018-12-28T22:46:56.807Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-31T12:27:05.427Z"
+        },
+        "price": 32600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.06688719987869,
+                4.649731782869345
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf8",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T20:27:08.357Z"
+            },
+            "pickup_address": "Éxito Country - Cl. 134 #9 - 51, Bogotá, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03280000000001,
+                    4.71236
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 96 #13a-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0485,
+                    4.6809400000000005
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Juliana Alejandra",
+            "last_name": "Moreno"
+        },
+        "driver": {
+            "first_name": "Alvaro Gil ",
+            "last_name": "Plazas Cedeño"
+        },
+        "car": {
+            "plate": "WPR150"
+        },
+        "status": "near",
+        "check_code": "28",
+        "createdAt": {
+            "$date": "2018-12-28T20:10:57.316Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-16T01:18:51.485Z"
+        },
+        "price": 13300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0288695693016,
+                4.689450863436186
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabf9",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T14:27:54.261Z"
+            },
+            "pickup_address": "Cra. 12a #79-31, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0555679,
+                    4.6648353
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Edificio Lumini - Dg. 72 ##1-52e, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04833769999999,
+                    4.6503611
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Laura",
+            "last_name": "Velasquez"
+        },
+        "driver": {
+            "first_name": "Luis Alfredo",
+            "last_name": "Pinzon Noriega "
+        },
+        "car": {
+            "plate": "WNS634"
+        },
+        "status": "started",
+        "check_code": "90",
+        "createdAt": {
+            "$date": "2018-12-28T14:24:01.501Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-15T09:03:07.72Z"
+        },
+        "price": 10700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05657142400742,
+                4.667391185186453
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabfa",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T03:05:00Z"
+            },
+            "pickup_address": "Codensa - Carrera 13a #93-66, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.050151,
+                    4.676686399999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 94 #75c-48, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1088456,
+                    4.704878
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Giovanny",
+            "last_name": "Ramírez"
+        },
+        "driver": {
+            "first_name": "Jose Reinold",
+            "last_name": "Rojas Rodriguez"
+        },
+        "car": {
+            "plate": "EXX235"
+        },
+        "status": "started",
+        "check_code": "31",
+        "createdAt": {
+            "$date": "2018-12-28T00:51:29.15Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-28T04:37:59.856Z"
+        },
+        "price": 19600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0693548321724,
+                4.651376816901752
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabfb",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T03:57:18Z"
+            },
+            "pickup_address": "Cra. 123 #14-55, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.16663620000001,
+                    4.6819345
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11874759999999,
+                    4.683732399999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Robinson",
+            "last_name": "Castrillon Castrillon"
+        },
+        "car": {
+            "plate": "WPR112"
+        },
+        "status": "started",
+        "check_code": "92",
+        "createdAt": {
+            "$date": "2018-12-27T23:06:46.427Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-29T05:00:16.116Z"
+        },
+        "price": 18300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09573167562485,
+                4.757660209833993
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabfc",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T22:00:00Z"
+            },
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "-72, Cra. 14b #11872, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0422121,
+                    4.6983899
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Rafael",
+            "last_name": "Chivata Barbosa"
+        },
+        "car": {
+            "plate": "WNZ200"
+        },
+        "status": "onWay",
+        "check_code": "81",
+        "createdAt": {
+            "$date": "2018-12-27T22:40:51.82Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-28T23:19:05.758Z"
+        },
+        "price": 23100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10722225904465,
+                4.5524998791971
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabfd",
+        "start": {
+            "date": {
+                "$date": "2019-01-01T23:00:00Z"
+            },
+            "pickup_address": "a 11a-109, Cra. 2a #11a-1, Madrid, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.2590925,
+                    4.7321988
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 19 #68b-65, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1164409,
+                    4.6453089
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Luis Carlos",
+            "last_name": "Jimenez Vargas"
+        },
+        "car": {
+            "plate": "TZT277"
+        },
+        "status": "near",
+        "check_code": "57",
+        "createdAt": {
+            "$date": "2018-12-27T16:59:02.533Z"
+        },
+        "updatedAt": {
+            "$date": "2019-01-02T00:44:04.167Z"
+        },
+        "price": 74100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.11168545484543,
+                4.657564071251699
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabfe",
+        "start": {
+            "date": {
+                "$date": "2018-12-28T12:25:00Z"
+            },
+            "pickup_address": "Calle 104 19a-64, bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0533057,
+                    4.6907168
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 73 #7-78, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0554287,
+                    4.6564917
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Mauricio",
+            "last_name": "Garces"
+        },
+        "driver": {
+            "first_name": "Pedro Miguel ",
+            "last_name": "Samudio Rodriguez"
+        },
+        "car": {
+            "plate": "ESN380"
+        },
+        "status": "near",
+        "check_code": "95",
+        "createdAt": {
+            "$date": "2018-12-26T01:37:34.71Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-28T23:01:21.649Z"
+        },
+        "price": 13200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.21594828367233,
+                4.6045807948580375
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceabff",
+        "start": {
+            "date": {
+                "$date": "2018-12-25T14:00:42Z"
+            },
+            "pickup_address": "Ak. 7 #72-92 torre 1 ap 1602",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0548651,
+                    4.6555266
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Puerta 9-Salidas-Aeropuerto El Dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.140232,
+                    4.6974713
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "0325 Agustin",
+            "last_name": "Morales Vargas"
+        },
+        "driver": {
+            "first_name": "Edison",
+            "last_name": "Moreno Marquez"
+        },
+        "car": {
+            "plate": "EXZ801"
+        },
+        "status": "onWay",
+        "check_code": "64",
+        "createdAt": {
+            "$date": "2018-12-25T01:05:21.308Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-27T12:07:57.873Z"
+        },
+        "price": 30100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.12935048341751,
+                4.6084842654434155
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac00",
+        "start": {
+            "date": {
+                "$date": "2018-12-23T04:20:00Z"
+            },
+            "pickup_address": "Cra. 25a ##1a Sur 45, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5583868,
+                    6.1979731
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Carrera 65B # 52B Sur 54, San Antonio de Prado, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6469405,
+                    6.1750303
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Santiago",
+            "last_name": "Hincapie Herrera"
+        },
+        "car": {
+            "plate": "WGP239"
+        },
+        "status": "onWay",
+        "check_code": "14",
+        "createdAt": {
+            "$date": "2018-12-23T02:06:43.246Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-23T05:33:10.51Z"
+        },
+        "price": 39200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.58619767427444,
+                6.247229654658078
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac01",
+        "start": {
+            "date": {
+                "$date": "2018-12-22T03:48:27.511Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11874759999999,
+                    4.683732399999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Dg. 51 Sur #55 - 63, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.144126,
+                    4.5907151
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Omar Rene ",
+            "last_name": "Supelano Castiblanco "
+        },
+        "car": {
+            "plate": "WNK191"
+        },
+        "status": "near",
+        "check_code": "77",
+        "createdAt": {
+            "$date": "2018-12-22T03:30:34.895Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-22T05:01:52.025Z"
+        },
+        "price": 27600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09989446401596,
+                4.626027070587206
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac02",
+        "start": {
+            "date": {
+                "$date": "2018-12-22T03:56:53Z"
+            },
+            "pickup_address": "Cra. 123 #14-55, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.16663620000001,
+                    4.6819345
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11874759999999,
+                    4.683732399999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Fredy Alberto",
+            "last_name": "Azuero Alfonso"
+        },
+        "car": {
+            "plate": "WNY437"
+        },
+        "status": "near",
+        "check_code": "44",
+        "createdAt": {
+            "$date": "2018-12-21T22:37:28.497Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-25T05:00:05.46Z"
+        },
+        "price": 21700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.0901044011116,
+                4.748730387189646
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac03",
+        "start": {
+            "date": {
+                "$date": "2018-12-20T12:44:33.751Z"
+            },
+            "pickup_address": "Colegio San Bartolomé La Merced - Cra. 5 #33B-80, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0648136,
+                    4.620562700000001
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Puerta 4-Salidas-Aeropuerto El Dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1415367,
+                    4.6982583
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Juber Dario",
+            "last_name": "Ariza Rueda"
+        },
+        "driver": {
+            "first_name": "Henry Daniel",
+            "last_name": "Baquero Hernandez"
+        },
+        "car": {
+            "plate": "ESO382"
+        },
+        "status": "onWay",
+        "check_code": "78",
+        "createdAt": {
+            "$date": "2018-12-20T12:40:13.174Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-20T14:38:18.788Z"
+        },
+        "price": 38900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.06439274549484,
+                4.63075686027053
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac04",
+        "start": {
+            "date": {
+                "$date": "2018-12-20T11:38:25.096Z"
+            },
+            "pickup_address": "Cra. 50 #147a-20, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05316859999999,
+                    4.7313592
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ac. 26 #92-32, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.12069249999999,
+                    4.6830557
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Nathalia",
+            "last_name": "Calderon"
+        },
+        "driver": {
+            "first_name": "Braian",
+            "last_name": "Triana Gutierrez"
+        },
+        "car": {
+            "plate": "ESO249"
+        },
+        "status": "onWay",
+        "check_code": "17",
+        "createdAt": {
+            "$date": "2018-12-20T11:19:09.363Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-24T22:55:22.409Z"
+        },
+        "price": 25100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.07835632562637,
+                4.648335151510544
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac05",
+        "start": {
+            "date": {
+                "$date": "2018-12-20T13:05:00Z"
+            },
+            "pickup_address": "Aeropuerto Internacional José María Córdova - Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4278455,
+                    6.1708981
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Country Club Ejecutivos - Diagonal 28 No. 16 - 129, Kilometro 5 vía Las Palmas, Medellin, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5595843,
+                    6.2186903
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Ramiro Augusto",
+            "last_name": "Valencia Acevedo"
+        },
+        "driver": {
+            "first_name": "Juan Camilo ",
+            "last_name": "Gomez Torres "
+        },
+        "car": {
+            "plate": "WNR748"
+        },
+        "status": "near",
+        "check_code": "32",
+        "createdAt": {
+            "$date": "2018-12-20T02:28:58.114Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-22T05:04:35.194Z"
+        },
+        "price": 88800.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.58143943548203,
+                6.2156749109454665
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac06",
+        "start": {
+            "date": {
+                "$date": "2018-12-19T11:50:34Z"
+            },
+            "pickup_address": "Cra. 54d #135-34 - Cra. 54d #135-34, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05999369999999,
+                    4.724159
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ak. 9 #125-30 - Ak. 9 #125-30, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0328224,
+                    4.701537
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Claudia Patricia",
+            "last_name": "Rios Orozco"
+        },
+        "driver": {
+            "first_name": "Hector Antonio",
+            "last_name": "Rodriguez Velasquez"
+        },
+        "car": {
+            "plate": "SZN254"
+        },
+        "status": "onWay",
+        "check_code": "73",
+        "createdAt": {
+            "$date": "2018-12-19T10:52:06.65Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-19T22:57:04.298Z"
+        },
+        "price": 18000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05430227518082,
+                4.735489003853253
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac07",
+        "start": {
+            "date": {
+                "$date": "2018-12-19T03:50:00Z"
+            },
+            "pickup_address": "Centro Comercial El Tesoro, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5590897,
+                    6.196484799999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 79 ## 44a 21, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5975069,
+                    6.250889799999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Wilson De Jesus ",
+            "last_name": "Arboleda Gaviria "
+        },
+        "car": {
+            "plate": "ESP885"
+        },
+        "status": "onWay",
+        "check_code": "96",
+        "createdAt": {
+            "$date": "2018-12-19T02:45:05.783Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-19T05:01:49.839Z"
+        },
+        "price": 33600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.60060113668442,
+                6.164995696085647
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac08",
+        "start": {
+            "date": {
+                "$date": "2018-12-18T13:53:14.512Z"
+            },
+            "pickup_address": "Automotores San Jorge - Cl. 13 #No 38 - 91, Bogotá, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0994058,
+                    4.620778
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 96 #13a-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0485021,
+                    4.6809438
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Catalina ",
+            "last_name": "Rubio Amaya"
+        },
+        "driver": {
+            "first_name": "Robinson Norvey ",
+            "last_name": "Sanchez Medina "
+        },
+        "car": {
+            "plate": "TZR859"
+        },
+        "status": "started",
+        "check_code": "61",
+        "createdAt": {
+            "$date": "2018-12-18T13:49:03.824Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-26T16:35:25.974Z"
+        },
+        "price": 29000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10553246736526,
+                4.617249331212413
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac09",
+        "start": {
+            "date": {
+                "$date": "2018-12-18T13:00:26.205Z"
+            },
+            "pickup_address": "Cra. 2 #76a-02, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04973369999999,
+                    4.6574412
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Superintendence of Industry and Commerce - Calle 13 #27-00, Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0707558,
+                    4.6146004
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Pablo",
+            "last_name": "Marquez escobar"
+        },
+        "driver": {
+            "first_name": "Alvaro Orlando",
+            "last_name": "Salgado Gomez"
+        },
+        "car": {
+            "plate": "WMK593"
+        },
+        "status": "started",
+        "check_code": "69",
+        "createdAt": {
+            "$date": "2018-12-18T12:57:27.307Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-18T15:44:50.841Z"
+        },
+        "price": 12900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05346542596817,
+                4.6528317468472125
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0a",
+        "start": {
+            "date": {
+                "$date": "2018-12-18T13:35:52Z"
+            },
+            "pickup_address": "Cl. 92 #14-56, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.052114,
+                    4.675584
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra 45 #24b-27, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09381859999999,
+                    4.6355434
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Milena",
+            "last_name": "Sanchez De Bosdo"
+        },
+        "driver": {
+            "first_name": "Cesar Augusto",
+            "last_name": "Obando Burbano"
+        },
+        "car": {
+            "plate": "WPQ918"
+        },
+        "status": "near",
+        "check_code": "64",
+        "createdAt": {
+            "$date": "2018-12-18T00:29:08.963Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-18T19:28:21.741Z"
+        },
+        "price": 17400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05650168657303,
+                4.6761892023305265
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0b",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T17:42:48.305Z"
+            },
+            "pickup_address": "Cl. 116 #7-15, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0335949,
+                    4.6936301
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Ac. 82 #10-90, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.051946,
+                    4.6666313
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Diego",
+            "last_name": "Echeverri Yepes"
+        },
+        "driver": {
+            "first_name": "Edwin Giovanny ",
+            "last_name": "Pinilla Salamanca "
+        },
+        "car": {
+            "plate": "WFR453"
+        },
+        "status": "started",
+        "check_code": "29",
+        "createdAt": {
+            "$date": "2018-12-17T17:31:43.708Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-17T18:19:04.079Z"
+        },
+        "price": 12400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05106216669083,
+                4.686832496478587
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0c",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T13:20:00Z"
+            },
+            "pickup_address": "Cra 45 #24b-27, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0938211,
+                    4.6355417
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 8 #7-83, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0783415,
+                    4.5961808
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Jose Mauricio ",
+            "last_name": "Forero Sierra "
+        },
+        "car": {
+            "plate": "ESO376"
+        },
+        "status": "near",
+        "check_code": "49",
+        "createdAt": {
+            "$date": "2018-12-17T12:23:53.266Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-17T23:26:25.707Z"
+        },
+        "price": 18000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09109681844711,
+                4.633823872873329
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0d",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T12:00:09Z"
+            },
+            "pickup_address": "Cl. 104b #45a-12, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.057304,
+                    4.6925643
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Casa Dann Carlton Hotel & Spa - Cl. 93b #18-99, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05431770000001,
+                    4.6803497
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Edgar Fabian",
+            "last_name": "Ferreira Plata"
+        },
+        "driver": {
+            "first_name": "Jorge Luis ",
+            "last_name": "Forero Romero "
+        },
+        "car": {
+            "plate": "ESM312"
+        },
+        "status": "onWay",
+        "check_code": "50",
+        "createdAt": {
+            "$date": "2018-12-17T10:39:17.774Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-17T12:26:46.77Z"
+        },
+        "price": 10600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.11371856927872,
+                4.711305229272007
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0e",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T18:00:00Z"
+            },
+            "pickup_address": "Hotel Marriott Bogotá, Av. El Dorado #69b-53, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1085993,
+                    4.6592002
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Bogotá, Bogotá D.C., Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1522358,
+                    4.7054767
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Vanessa",
+            "last_name": "Varon Garrido"
+        },
+        "driver": {
+            "first_name": "Cesar Augusto",
+            "last_name": "Suarez Pardo"
+        },
+        "car": {
+            "plate": "WNY986"
+        },
+        "status": "started",
+        "check_code": "27",
+        "createdAt": {
+            "$date": "2018-12-17T01:19:43.286Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-17T20:30:09.209Z"
+        },
+        "price": 59200.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09472316503525,
+                4.736277302133807
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac0f",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T09:40:00Z"
+            },
+            "pickup_address": "#54a- a, Cl. 12 Sur #54a64, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.59359669999999,
+                    6.1987184
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4278743,
+                    6.1708569
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Juliana",
+            "last_name": "Cardona"
+        },
+        "driver": {
+            "first_name": "Juan Pablo",
+            "last_name": "Arguello Salcedo"
+        },
+        "car": {
+            "plate": "WMY406"
+        },
+        "status": "started",
+        "check_code": "54",
+        "createdAt": {
+            "$date": "2018-12-16T17:01:45.247Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-20T02:19:46.209Z"
+        },
+        "price": 84720.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.60958653688431,
+                6.157992261522388
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac10",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T12:00:00Z"
+            },
+            "pickup_address": "Cl. 152a #54-80, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0570381,
+                    4.738035099999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 98 #70-91, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0782033,
+                    4.6939259
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Nidia",
+            "last_name": "Martinez"
+        },
+        "driver": {
+            "first_name": "Luis Javier ",
+            "last_name": "Rico Beltran "
+        },
+        "car": {
+            "plate": "WPL854"
+        },
+        "status": "started",
+        "check_code": "82",
+        "createdAt": {
+            "$date": "2018-12-16T16:58:17.845Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-19T23:19:12.219Z"
+        },
+        "price": 26400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.11484509706497,
+                4.729027999618104
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac11",
+        "start": {
+            "date": {
+                "$date": "2018-12-16T05:00:20.179Z"
+            },
+            "pickup_address": "AK 60 - Cl 61, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.089778,
+                    4.6574842
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 17a ##106-30, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.04879199999999,
+                    4.692307500000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Santiago",
+            "last_name": "Uscátegui Leyva"
+        },
+        "driver": {
+            "first_name": "Jose Alvaro",
+            "last_name": "Poveda Buitrago"
+        },
+        "car": {
+            "plate": "EXZ062"
+        },
+        "status": "onWay",
+        "check_code": "98",
+        "createdAt": {
+            "$date": "2018-12-16T04:52:53.432Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-18T21:46:05.811Z"
+        },
+        "price": 17400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.089997112751,
+                4.632389220697142
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac12",
+        "start": {
+            "date": {
+                "$date": "2018-12-16T04:20:00Z"
+            },
+            "pickup_address": "El Tesoro, Medellín, Medellin, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.553901,
+                    6.2041496
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.54198,
+                    6.293262
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Cristian Duberney",
+            "last_name": "Restrepo Sepulveda"
+        },
+        "car": {
+            "plate": "EXV151"
+        },
+        "status": "near",
+        "check_code": "38",
+        "createdAt": {
+            "$date": "2018-12-16T00:39:43.039Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-16T06:09:07.838Z"
+        },
+        "price": 42900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.55611938238144,
+                6.242499864974754
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac13",
+        "start": {
+            "date": {
+                "$date": "2018-12-18T04:00:00Z"
+            },
+            "pickup_address": "Vía al Aeropuerto Nte., Palmira, Valle del Cauca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.3879244,
+                    3.5446308
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 34 #24b-20, Cali, Valle del Cauca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -76.5065506,
+                    3.4368098
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Cali"
+        },
+        "passenger": {
+            "first_name": "Stephania",
+            "last_name": "Rojas Cortes"
+        },
+        "driver": {
+            "first_name": "Alexis",
+            "last_name": "Lemus Martinez"
+        },
+        "car": {
+            "plate": "WHW122"
+        },
+        "status": "onWay",
+        "check_code": "67",
+        "createdAt": {
+            "$date": "2018-12-15T21:11:44.423Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-21T05:00:05.905Z"
+        },
+        "price": 107400.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -76.50553554296494,
+                3.4922564348995238
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac14",
+        "start": {
+            "date": {
+                "$date": "2018-12-17T22:00:00Z"
+            },
+            "pickup_address": "DG 24C - Tv 68, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10684049999999,
+                    4.6519749
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 48b Sur #72k-13, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.15261459999999,
+                    4.602469999999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Admin",
+            "last_name": "Mi Águila"
+        },
+        "driver": {
+            "first_name": "Johan Esteban ",
+            "last_name": "Yanquen Trujillo "
+        },
+        "car": {
+            "plate": "WPM775"
+        },
+        "status": "near",
+        "check_code": "45",
+        "createdAt": {
+            "$date": "2018-12-15T02:24:01.382Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-18T19:46:05.413Z"
+        },
+        "price": 28600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.1187933087349,
+                4.683899824097232
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac15",
+        "start": {
+            "date": {
+                "$date": "2018-12-14T13:25:22Z"
+            },
+            "pickup_address": "Cl. 92 #14-56, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.052114,
+                    4.675584
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra 45 #24b-27, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09381859999999,
+                    4.6355434
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Milena",
+            "last_name": "Sanchez De Bosdo"
+        },
+        "driver": {
+            "first_name": "Camilo ",
+            "last_name": "Ardila Molina "
+        },
+        "car": {
+            "plate": "WNY537"
+        },
+        "status": "started",
+        "check_code": "17",
+        "createdAt": {
+            "$date": "2018-12-13T23:39:38.493Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-14T22:04:44.991Z"
+        },
+        "price": 17000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.06617909669876,
+                4.689199926041404
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac16",
+        "start": {
+            "date": {
+                "$date": "2018-12-13T20:30:27.547Z"
+            },
+            "pickup_address": "Centro Comercial El Tesoro, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.559089,
+                    6.196484799999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Aeropuerto Internacional José María Córdova - Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4278743,
+                    6.1708569
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Felipe",
+            "last_name": "Marquez"
+        },
+        "driver": {
+            "first_name": "Victor Hugo",
+            "last_name": "Cuartas Alzate"
+        },
+        "car": {
+            "plate": "WMY934"
+        },
+        "status": "started",
+        "check_code": "61",
+        "createdAt": {
+            "$date": "2018-12-13T19:58:24.154Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-13T23:18:39.935Z"
+        },
+        "price": 84720.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.56469172239304,
+                6.197701203204595
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac17",
+        "start": {
+            "date": {
+                "$date": "2018-12-13T21:30:14Z"
+            },
+            "pickup_address": "Compensar sede carrera 69 - Cra. 69 ###47-34, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1043069,
+                    4.6600609
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 93 & Cra. 10, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0468162,
+                    4.6737509
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Alejandro",
+            "last_name": "Baquero"
+        },
+        "driver": {
+            "first_name": "Wilson Diomar ",
+            "last_name": "Vasquez Mejia "
+        },
+        "car": {
+            "plate": "WCV971"
+        },
+        "status": "onWay",
+        "check_code": "40",
+        "createdAt": {
+            "$date": "2018-12-13T18:17:50.082Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-20T03:34:37.739Z"
+        },
+        "price": 30000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09428864717484,
+                4.697518880886356
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac18",
+        "start": {
+            "date": {
+                "$date": "2018-12-13T23:20:00Z"
+            },
+            "pickup_address": "Cl. 108 #45-30, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.056462,
+                    4.6954099
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 81 #12-44, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0540877,
+                    4.6663666
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Natalia",
+            "last_name": "Trujillo"
+        },
+        "driver": {
+            "first_name": "Emiliano ",
+            "last_name": "Guevara Gutierrez"
+        },
+        "car": {
+            "plate": "WEP312"
+        },
+        "status": "started",
+        "check_code": "42",
+        "createdAt": {
+            "$date": "2018-12-13T16:51:44.403Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-14T00:07:52.488Z"
+        },
+        "price": 53000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05723661184311,
+                4.667555942061817
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac19",
+        "start": {
+            "date": {
+                "$date": "2018-12-13T11:15:01Z"
+            },
+            "pickup_address": "Cl. 127D #19-88 - Bogotá",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05019,
+                    4.7110652
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra 45 #24-9, Bogotá, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09384109999999,
+                    4.6355284
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Cristina",
+            "last_name": "Barrera"
+        },
+        "driver": {
+            "first_name": "Luis Alberto ",
+            "last_name": "Bermudez Urrego"
+        },
+        "car": {
+            "plate": "WHQ675"
+        },
+        "status": "onWay",
+        "check_code": "90",
+        "createdAt": {
+            "$date": "2018-12-13T01:16:17.75Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-15T14:03:08.309Z"
+        },
+        "price": 22800.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -73.53165239095688,
+                4.749635282643531
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1a",
+        "start": {
+            "date": {
+                "$date": "2018-12-14T14:30:00Z"
+            },
+            "pickup_address": "Calle 26 #103-9, Fontibon, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1416307,
+                    4.6981907
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 23 #124-87, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05313,
+                    4.705229699999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Wenjian",
+            "last_name": "Lu"
+        },
+        "car": {
+            "plate": "EXZ468"
+        },
+        "status": "started",
+        "check_code": "74",
+        "createdAt": {
+            "$date": "2018-12-12T22:32:33.045Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-17T15:32:37.824Z"
+        },
+        "price": 40300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10502821207047,
+                4.647990429432873
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1b",
+        "start": {
+            "date": {
+                "$date": "2018-12-11T18:38:51.178Z"
+            },
+            "pickup_address": "Cl. 22b #56-63, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.10190209999999,
+                    4.6410366
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 77 #11-19, bogotá, colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0558925,
+                    4.6617707
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Carlos",
+            "last_name": "Madiedo"
+        },
+        "driver": {
+            "first_name": "Dairon Steven ",
+            "last_name": "LLano Gomez "
+        },
+        "car": {
+            "plate": "WOX185"
+        },
+        "status": "near",
+        "check_code": "70",
+        "createdAt": {
+            "$date": "2018-12-11T18:27:52.389Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-13T13:13:21.647Z"
+        },
+        "price": 22000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10799473524094,
+                4.671337746031547
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1c",
+        "start": {
+            "date": {
+                "$date": "2018-12-11T10:25:06.111Z"
+            },
+            "pickup_address": "#16, Cl. 17 Sur, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1063399,
+                    4.592640200000001
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 96 #13a-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0485467,
+                    4.6809666
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Andrea",
+            "last_name": "Gomez Cardenas"
+        },
+        "driver": {
+            "first_name": "Gustavo",
+            "last_name": "Garcia Infante"
+        },
+        "car": {
+            "plate": "TLM958"
+        },
+        "status": "near",
+        "check_code": "48",
+        "createdAt": {
+            "$date": "2018-12-11T09:54:04.857Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-12T04:12:23.745Z"
+        },
+        "price": 20600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.15886014699936,
+                4.592249376417854
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1d",
+        "start": {
+            "date": {
+                "$date": "2018-12-11T12:30:37Z"
+            },
+            "pickup_address": "AFFINITY APARTA HOTEL - Calle 6 sur # 43 A 100, El Poblado, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5742492,
+                    6.1997415
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Agrosan - # 2 a 78d, Cra. 49, Sabaneta, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.6272367,
+                    6.1517529
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Javier",
+            "last_name": "Patino"
+        },
+        "driver": {
+            "first_name": "German",
+            "last_name": "Ramirez Morales"
+        },
+        "car": {
+            "plate": "TSX495"
+        },
+        "status": "started",
+        "check_code": "37",
+        "createdAt": {
+            "$date": "2018-12-11T03:21:00.272Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-11T21:31:58.122Z"
+        },
+        "price": 17300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.42844086885452,
+                6.17050111044373
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1e",
+        "start": {
+            "date": {
+                "$date": "2018-12-11T12:00:00Z"
+            },
+            "pickup_address": "Cl. 124a #54b-12, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0643479,
+                    4.7065784
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Olímpica KM21 - Chía, Cundinamarca, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0296537,
+                    4.8514457
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Camilo Francisco",
+            "last_name": "Caycedo Tribin"
+        },
+        "driver": {
+            "first_name": "Jose Alberto ",
+            "last_name": "Dominguez Galindo "
+        },
+        "car": {
+            "plate": "ESO453"
+        },
+        "status": "onWay",
+        "check_code": "95",
+        "createdAt": {
+            "$date": "2018-12-10T22:21:49.936Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-11T12:21:05.366Z"
+        },
+        "price": 10600.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.13246184587479,
+                4.6039952742702255
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac1f",
+        "start": {
+            "date": {
+                "$date": "2018-12-10T17:17:13.418Z"
+            },
+            "pickup_address": "Cl. 93 #12-14, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0494061,
+                    4.6752591
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 8 #81a-80, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0498865,
+                    4.6640259
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "0134 Andrés",
+            "last_name": "Cubides Diaz"
+        },
+        "driver": {
+            "first_name": "Ivan Rodrigo ",
+            "last_name": "Farias Gomez"
+        },
+        "car": {
+            "plate": "TTO600"
+        },
+        "status": "started",
+        "check_code": "26",
+        "createdAt": {
+            "$date": "2018-12-10T17:12:56.647Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-10T17:28:09.702Z"
+        },
+        "price": 7100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04952257871628,
+                4.675329931857505
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac20",
+        "start": {
+            "date": {
+                "$date": "2018-12-10T14:15:00Z"
+            },
+            "pickup_address": "Cra. 91 #26-38",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1203888,
+                    4.6823256
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Makro Av Boyacá - Av. Boyacá #81b-13, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0870395,
+                    4.6968862
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Catalina",
+            "last_name": "Morales Rodriguez"
+        },
+        "driver": {
+            "first_name": "Luis Angel",
+            "last_name": "Parra Cifuentes"
+        },
+        "car": {
+            "plate": "WPR088"
+        },
+        "status": "onWay",
+        "check_code": "85",
+        "createdAt": {
+            "$date": "2018-12-10T13:08:12.472Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-10T15:17:04.959Z"
+        },
+        "price": 20900.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10897642374039,
+                4.66161202094316
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac21",
+        "start": {
+            "date": {
+                "$date": "2018-12-07T03:00:00Z"
+            },
+            "pickup_address": "Cl 52A, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.11874759999999,
+                    4.683732399999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cra. 77i #55a Sur-25, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1709688,
+                    4.6052507
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Transporte",
+            "last_name": "Mi Aguila"
+        },
+        "driver": {
+            "first_name": "Yohan Andres",
+            "last_name": "Garcia Buitrago"
+        },
+        "car": {
+            "plate": "WPR088"
+        },
+        "status": "started",
+        "check_code": "52",
+        "createdAt": {
+            "$date": "2018-12-07T00:14:54.765Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-07T04:09:08.31Z"
+        },
+        "price": 31000.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.13870066404343,
+                4.742046327492467
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac22",
+        "start": {
+            "date": {
+                "$date": "2018-12-07T02:15:00Z"
+            },
+            "pickup_address": "Cra. 9 #8219, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0511068,
+                    4.664659299999999
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 162 #55-69, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0574525,
+                    4.7449479
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Daniela",
+            "last_name": "Acevedo"
+        },
+        "driver": {
+            "first_name": "Jhon Alexander ",
+            "last_name": "Bejarano Tobar "
+        },
+        "car": {
+            "plate": "WGO764"
+        },
+        "status": "near",
+        "check_code": "55",
+        "createdAt": {
+            "$date": "2018-12-06T15:47:01.826Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-11T20:57:29.004Z"
+        },
+        "price": 28300.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04505401849747,
+                4.679279027423753
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac23",
+        "start": {
+            "date": {
+                "$date": "2018-12-06T21:15:00Z"
+            },
+            "pickup_address": "Premium Plaza - Cra. 43A ###30-25, Medellín, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.5704523,
+                    6.2295769
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Aeropuerto \"José María Córdova\" - Rionegro, Antioquia, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -75.4278743,
+                    6.1708569
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Medellin"
+        },
+        "passenger": {
+            "first_name": "Javier",
+            "last_name": "Cabra"
+        },
+        "driver": {
+            "first_name": "Juan Carlos",
+            "last_name": "Palacio Vallejo"
+        },
+        "car": {
+            "plate": "WLX684"
+        },
+        "status": "started",
+        "check_code": "49",
+        "createdAt": {
+            "$date": "2018-12-06T01:08:56.208Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-07T00:14:06.817Z"
+        },
+        "price": 84720.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -75.58899253606796,
+                6.246902675628526
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac24",
+        "start": {
+            "date": {
+                "$date": "2018-12-06T15:30:00Z"
+            },
+            "pickup_address": "Cl. 113 #7-45, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.03477000000001,
+                    4.691610000000001
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Cl. 82 ##12-21, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.05437,
+                    4.666530000000001
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Luz Stella",
+            "last_name": "Perez Dominguez"
+        },
+        "driver": {
+            "first_name": "Yeison Javier",
+            "last_name": "Castrillon Aldana"
+        },
+        "car": {
+            "plate": "WLQ702"
+        },
+        "status": "near",
+        "check_code": "57",
+        "createdAt": {
+            "$date": "2018-12-05T21:46:44.44Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-10T20:33:57.724Z"
+        },
+        "price": 385700.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.05645877122879,
+                4.667358233811385
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac25",
+        "start": {
+            "date": {
+                "$date": "2018-12-05T12:15:00Z"
+            },
+            "pickup_address": "Cl. 99 #10-8, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0431698,
+                    4.6814369
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Plaza De los Artesanos - No. 63 A, Cra. 60 #67b52, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0865072,
+                    4.663692699999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Oscar Julian",
+            "last_name": "Agudelo Castañeda"
+        },
+        "driver": {
+            "first_name": "Juan Carlos ",
+            "last_name": "Santiago Gil"
+        },
+        "car": {
+            "plate": "FUY680"
+        },
+        "status": "near",
+        "check_code": "60",
+        "createdAt": {
+            "$date": "2018-12-05T09:59:30.733Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-05T14:50:06.078Z"
+        },
+        "price": 16100.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.09384340047836,
+                4.69768870720403
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac26",
+        "start": {
+            "date": {
+                "$date": "2018-12-04T22:15:54Z"
+            },
+            "pickup_address": "Calle 26 #59-41",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.09960629999999,
+                    4.6465899
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Carrera 79 #19-88",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1292402,
+                    4.656841099999999
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": null,
+            "last_name": null
+        },
+        "driver": {
+            "first_name": "Henry ",
+            "last_name": "Alvarez "
+        },
+        "car": {
+            "plate": "WEX574"
+        },
+        "status": "onWay",
+        "check_code": "71",
+        "createdAt": {
+            "$date": "2018-12-04T21:36:05.606Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-05T22:49:20.604Z"
+        },
+        "price": 15500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.10494238138199,
+                4.64424918100169
+            ]
+        }
+    },
+    {
+        "id": "5d448fe37744a13550ceac27",
+        "start": {
+            "date": {
+                "$date": "2018-12-05T09:45:24Z"
+            },
+            "pickup_address": "Cra. 16 #94-37, Bogotá, Colombia",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.0510944,
+                    4.6802152
+                ]
+            }
+        },
+        "end": {
+            "date": null,
+            "pickup_address": "Puerta 7-Salidas-Aeropuerto El Dorado",
+            "pickup_location": {
+                "type": "Point",
+                "coordinates": [
+                    -74.1407656,
+                    4.6978672
+                ]
+            }
+        },
+        "country": {
+            "name": "Colombia"
+        },
+        "city": {
+            "name": "Bogotá"
+        },
+        "passenger": {
+            "first_name": "Jorge Luis",
+            "last_name": "Acevedo Escobar"
+        },
+        "driver": {
+            "first_name": "William Steveng",
+            "last_name": "Miranda Martinez "
+        },
+        "car": {
+            "plate": "FRR391"
+        },
+        "status": "near",
+        "check_code": "29",
+        "createdAt": {
+            "$date": "2018-12-04T19:25:48.014Z"
+        },
+        "updatedAt": {
+            "$date": "2018-12-05T12:02:21.807Z"
+        },
+        "price": 38500.0,
+        "driver_location": {
+            "type": "Point",
+            "coordinates": [
+                -74.04389530420303,
+                4.750319657356549
+            ]
+        }
+    }
+]
