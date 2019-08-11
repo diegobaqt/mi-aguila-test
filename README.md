@@ -35,7 +35,9 @@ Se realizaron algunos métodos extra que se consideraron necesarios, con el fin 
 10. Eliminar viaje por ID - https://myeagletest.azurewebsites.net/Trip/DeleteById [DELETE]
 11. Eliminar viaje - https://myeagletest.azurewebsites.net/Delete [DELETE]
 
-**NOTA 2:** Los archivos JSON los podrá encontrar haciendo clic [aquí](https://github.com/diegobaqt/mi-aguila-test/tree/master/JSON%20Files). Adicionalmente, la documentación de esta API fue realizada usando Swagger y podrá ver el archivo correspondiente [aquí](https://github.com/diegobaqt/mi-aguila-test/blob/master/diegobaqt9-MyEagle-1.0.0-swagger.yaml)
+**NOTA 2:** Probablemente se generen problemas con el método *Trip/AddAll* en la base de datos desplegada, debido a que existen restricciones en la cantidad de registros en su configuración. Pero, localmente funciona perfectamente, así como en cualquier otra infraestructura sin esta restricción.
+
+**NOTA 3:** Los archivos JSON los podrá encontrar haciendo clic [aquí](https://github.com/diegobaqt/mi-aguila-test/tree/master/JSON%20Files). Adicionalmente, la documentación de esta API fue realizada usando Swagger y podrá ver el archivo correspondiente [aquí](https://github.com/diegobaqt/mi-aguila-test/blob/master/diegobaqt9-MyEagle-1.0.0-swagger.yaml)
 
 ## Configuración de la base de datos
 Esta API cuenta con una conexión a una base de datos no relacional en MongoDB. Por lo tanto, si usa Windows, MongoDB se instala en *C:\Archivos de programa\MongoDB* de forma predeterminada. Por lo tanto, deberá agregar *C:\Archivos de programa\MongoDB\Server\<versión>\bin* a la variables de entorno *Path* (Reemplace <versión> por la versión de Mongo que ha instalado en su computador). 
